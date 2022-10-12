@@ -2,7 +2,7 @@
   "name": "ts-bot-lite-example",
   "version": "1.0.0",
   "description": "[TypeScript] Example of ts-bot-lite",
-  "main": "index.js",
+  "main": "server.js",
   "keywords": [],
   "author": "[DeveLoL] Vsevolod Krekhalev",
   "license": "MIT",
