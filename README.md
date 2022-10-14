@@ -10,7 +10,11 @@
 ```
 npm i
 ```
-4. Create [example.conf.ts](#file-exampleconfts)
+4. If TypeScript is not global, then...
+```
+npm i typescript
+```
+5. Create [example.conf.ts](#file-exampleconfts)
 # File example.conf.ts
 ```typescript
 export const conf:any = {
